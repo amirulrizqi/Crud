@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\bin\Debug\Hylosdb.accdb
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\bin\Debug\HylosMart.exe.config
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\bin\Debug\HylosMart.exe
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\bin\Debug\HylosMart.pdb
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\obj\Debug\HylosMart.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\obj\Debug\HylosMart.Form1.resources
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\obj\Debug\HylosMart.Properties.Resources.resources
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\obj\Debug\HylosMart.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\obj\Debug\HylosMart.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\obj\Debug\HylosMart.exe
+C:\Users\ASUS\source\repos\HylosMart\HylosMart\obj\Debug\HylosMart.pdb
